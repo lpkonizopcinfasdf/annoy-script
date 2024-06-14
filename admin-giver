@@ -3383,3 +3383,4 @@
                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-12.7649641, 5.42999983, 94.3430023, 0, 0, -1, 0, 1, 0, 1, 0, 0)
                wait(0.69)
 -- admin giver 2
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lpkonizopcinfasdf/annoy-script/main/admin-giver-2",true))()
