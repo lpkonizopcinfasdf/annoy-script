@@ -1,0 +1,14 @@
+-- made by plamk_a
+
+
+-- some antis lol
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lpkonizopcinfasdf/annoy-script/main/some%20anntis",true))()
+
+
+-- admin giver 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lpkonizopcinfasdf/annoy-script/main/admin-giver",true))()
+
+-- annoy script spam h & m
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lpkonizopcinfasdf/annoy-script/main/spam-annoy",true))()
+
+
